@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qmuzik
-- 👀 I’m interested in Motion Capture, Unreal Engine, Autodesk Maya, Autodesk MotionBuilder, Python, C++, and MEL.
-- 🌱 I’m currently learning Maya Tool Dev and MotionBuilder Animation Retargeting.
-- 💞️ I’m looking to collaborate on Video Game Dev, Motion Capture, and Animation. 
+- 👀 I’m interested in Motion Capture, Unreal Engine, Autodesk Maya, Autodesk MotionBuilder, Python, C++, MEL, and DaVinci Resolve.
+- 🌱 I’m currently learning Maya Tool Dev, MotionBuilder Animation Retargeting, and DaVinci Resolve Tool Dev.
+- 💞️ I’m looking to collaborate on Video Game Dev, Motion Capture, Animation, and Underwater Video Production/Editing. 
 - 📫 How to reach me is via my email: quincymuzik0116@gmail.com. 
 
 <!---
