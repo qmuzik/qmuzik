@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qmuzik and I am the owner of SCUBA Q Multimedia.
+- 👋 Hi, I’m @qmuzik, the owner of SCUBA Q Multimedia.
 - 👀 I’m interested in Motion Capture, Underwater Videography, Artist Workflow Automation, Content Creation, Unreal Engine, Autodesk Maya, Autodesk MotionBuilder, DaVinci Resolve, Python, C++, C#, and Java.
 - 🌱 I’m currently learning PyQt, MoviePy, MotionBuilder Animation Retargeting, and DaVinci Resolve Tool Dev.
 - 💞️ I’m looking to collaborate on Video Game Dev, Motion Capture, Animation, Underwater Video Production/Editing, Workflow Automation, and Technical Artistry. 
